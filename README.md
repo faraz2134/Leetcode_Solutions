@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1927-sum-game](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
