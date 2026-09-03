@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4020-elevator-requests-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4020-elevator-requests-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4020-elevator-requests-i) |
 ## Combinatorics
 |  |
 | ------- |
