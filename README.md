@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4020-elevator-requests-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4020-elevator-requests-i) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3903-smallest-stable-index-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Game Theory
 |  |
