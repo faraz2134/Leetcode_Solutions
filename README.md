@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4020-elevator-requests-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Game Theory
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-movie-rating](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1341-movie-rating) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
