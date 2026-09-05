@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4020-elevator-requests-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Simulation
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
