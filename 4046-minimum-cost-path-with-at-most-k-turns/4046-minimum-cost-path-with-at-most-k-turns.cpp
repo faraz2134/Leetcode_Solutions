@@ -32,9 +32,9 @@ public:
             int newK;
 
             if (newDir == dir)
-                newK = k;       // same direction
+                newK = k;       
             else
-                newK = k - 1;   // turn
+                newK = k - 1;   
 
             ans = min(ans,
                       solve(grid, ni, nj, newK, newDir, dp));
@@ -65,16 +65,17 @@ public:
 
         int ans = 1e9;
 
-        int di[] = {-1, 0, 1, 0};
-        int dj[] = {0, 1, 0, -1};
+        int di[] = { 1, 0};
+        int dj[] = {0, 1};
+        int dir[] = {2, 1};
 
-        for (int dir = 0; dir < 4; dir++) {
+        for (int x = 0; x < 2; x++) {
 
-            int ni = di[dir];
-            int nj = dj[dir];
+            int ni = di[x];
+            int nj = dj[x];
 
             ans = min(ans,
-                      solve(grid, ni, nj, k, dir, dp));
+                      solve(grid, ni, nj, k, dir[x], dp));
         }
         
 return (ans == 1e9) ? -1 : ans+grid[0][0];
