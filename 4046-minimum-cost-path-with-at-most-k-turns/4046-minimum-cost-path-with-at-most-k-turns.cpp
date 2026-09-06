@@ -1,80 +1,84 @@
 class Solution {
 public:
-    int n, m, k;
 
-    vector<vector<vector<vector<int>>>> dp;
+    int solve(vector<vector<int>>& grid, int i, int j, int k, int dir,
+              vector<vector<vector<vector<int>>>>& dp) {
 
-    int solve(int i, int j, int turns, int prev, vector<vector<int>>& grid) {
+        int n = grid.size();
+        int m = grid[0].size();
 
-        if (i < 0 || j < 0 || i >= n || j >= m || turns > k)
-            return INT_MAX;
+        if (i < 0 || i >= n || j < 0 || j >= m)
+            return 1e9;
+
+        if (k < 0)
+            return 1e9;
 
         if (i == n - 1 && j == m - 1)
             return grid[i][j];
 
-        if (dp[i][j][turns][prev] != -1)
-            return dp[i][j][turns][prev];
+        if (dp[i][j][k][dir] != -1)
+            return dp[i][j][k][dir];
 
-        int x = INT_MAX;
-        int y = INT_MAX;
-        int nx = INT_MAX;
-        int ny = INT_MAX;
+        int ans = 1e9;
 
-        if (prev == 0) {
-            x = solve(i, j + 1, turns, 0, grid);
-            y = solve(i + 1, j, turns + 1, 1, grid);
-            nx = solve(i, j - 1, turns + 1, 2, grid);
-            ny = solve(i - 1, j, turns + 1, 3, grid);
+        int di[] = {-1, 0, 1, 0};
+        int dj[] = {0, 1, 0, -1};
+
+        for (int newDir = 0; newDir < 4; newDir++) {
+
+            int ni = i + di[newDir];
+            int nj = j + dj[newDir];
+
+            int newK;
+
+            if (newDir == dir)
+                newK = k;       // same direction
+            else
+                newK = k - 1;   // turn
+
+            ans = min(ans,
+                      solve(grid, ni, nj, newK, newDir, dp));
         }
+        if (ans == 1e9)
+    return dp[i][j][k][dir] = 1e9;
 
-        else if (prev == 1) {
-            x = solve(i, j + 1, turns + 1, 0, grid);  
-            y = solve(i + 1, j, turns, 1, grid);      
-            nx = solve(i, j - 1, turns + 1, 2, grid); 
-            ny = solve(i - 1, j, turns + 1, 3, grid); 
-        }
-
-        else if (prev == 2) {
-            x = solve(i, j + 1, turns + 1, 0, grid);  
-            y = solve(i + 1, j, turns + 1, 1, grid);  
-            nx = solve(i, j - 1, turns, 2, grid);     
-            ny = solve(i - 1, j, turns + 1, 3, grid); 
-        }
-
-        else if (prev == 3) {
-            x = solve(i, j + 1, turns + 1, 0, grid);  
-            y = solve(i + 1, j, turns + 1, 1, grid);  
-            nx = solve(i, j - 1, turns + 1, 2, grid); 
-            ny = solve(i - 1, j, turns, 3, grid);     
-        }
-
-        else { 
-            x = solve(i, j + 1, turns, 0, grid);
-            y = solve(i + 1, j, turns, 1, grid);
-            nx = solve(i, j - 1, turns, 2, grid);
-            ny = solve(i - 1, j, turns, 3, grid);
-        }
-
-        int best = min({x, y, nx, ny});
-
-        if (best == INT_MAX)
-            return dp[i][j][turns][prev] = INT_MAX;
-
-        return dp[i][j][turns][prev] = grid[i][j] + best;
+        return dp[i][j][k][dir] = grid[i][j] + ans;
     }
 
-    int minCost(vector<vector<int>>& grid, int K) {
+    int minCost(vector<vector<int>>& grid, int k) {
 
-        n = grid.size();
-        m = grid[0].size();
-        k = K;
+        int n = grid.size();
+        int m = grid[0].size();
 
-    
-        dp.assign(n, vector<vector<vector<int>>>(
-                         m, vector<vector<int>>(k + 1, vector<int>(5, -1))));
+        vector<vector<vector<vector<int>>>> dp(
+            n,
+            vector<vector<vector<int>>>(
+                m,
+                vector<vector<int>>(
+                    k + 1,
+                    vector<int>(4, -1)
+                )
+            )
+        );
+        if(n==1 && m==1)
+        return grid[0][0];
 
-        int ans=solve(0, 0, 0, 4, grid);
+        int ans = 1e9;
 
-        return (ans==INT_MAX)?-1:ans;
+        int di[] = {-1, 0, 1, 0};
+        int dj[] = {0, 1, 0, -1};
+
+        for (int dir = 0; dir < 4; dir++) {
+
+            int ni = di[dir];
+            int nj = dj[dir];
+
+            ans = min(ans,
+                      solve(grid, ni, nj, k, dir, dp));
+        }
+        
+return (ans == 1e9) ? -1 : ans+grid[0][0];
+
+       
     }
 };
