@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
@@ -240,5 +242,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
