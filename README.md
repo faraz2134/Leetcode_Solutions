@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1386-cinema-seat-allocation](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/faraz2134/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/faraz2134/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/faraz2134/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/faraz2134/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/faraz2134/Leetcode_Solutions/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Greedy
